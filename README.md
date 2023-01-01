@@ -30,6 +30,14 @@ python generate.py -c samples\generator_config.json -w samples\netG_epoch_49.pth
 其他更多参数设置请看代码
 
 # 实验结果
+### 学习率对比实验：
+![image](https://github.com/sjh126/nnet/blob/main/pic/0.00001.png)
+![image](https://github.com/sjh126/nnet/blob/main/pic/25new.png)
+![image](https://github.com/sjh126/nnet/blob/main/pic/0.0001.png)
+### Adam:
+![image](https://github.com/sjh126/nnet/blob/main/pic/adam.png)
+### improved_resuit:
+![image](https://github.com/sjh126/nnet/blob/main/pic/improved_result.jpg)
 
 
 
